@@ -1,8 +1,8 @@
 name: CI Pipeline GitHub Actions For Parent Module
 
 on:
-#  push:
-#    branches: [ "master" ]
+  push:
+    branches: [ "master" ]
   pull_request:
     branches: [ "master" ]
 
