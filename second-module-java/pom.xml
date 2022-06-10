@@ -76,7 +76,7 @@
                                 <rule>
                                     <element>CLASS</element>
                                     <excludes>
-                                        <exclude>Main</exclude>
+                                        <exclude>MainApplication</exclude>
                                     </excludes>
                                     <limits>
                                         <limit>
