@@ -34,4 +34,4 @@ jobs:
           cache: maven
 
       - name: Run Test Cases
-        run: mvn clean '-Dtest=*Test' test
+        run: mvn clean test
